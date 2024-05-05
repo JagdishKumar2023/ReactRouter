@@ -1,0 +1,9 @@
+.navContainer {
+  display: flex;
+  align-items: center;
+  gap: 80px;
+}
+
+:active ul li {
+  color: red;
+}
